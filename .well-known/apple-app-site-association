@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5XFCYJRX2B.andrew.molnar88-outlook.com.Meals-Made-Easy"],
+        "components": [
+          { "/": "/r/*", "comment": "Shared recipe links: /r/?id=<shareID>" },
+          { "/": "/r", "comment": "Shared recipe links without trailing slash" }
+        ]
+      }
+    ]
+  }
+}
